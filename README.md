@@ -6,7 +6,7 @@
 # Education
 - I just finished an A.S. in Computer Science at Salt Lake Community College
 - I have a Ph.D. in History and an M.S. in Geographic Information Science and Technology from the University of Southern California
-- I’m currently learning advanced algorithms, distributed systems, artificial intelligence, networking
+- I’m currently studying: advanced algorithms, distributed systems, artificial intelligence, networking
 - Ask me about American history, history of maps, geographic information systems, educational video games
 
 
