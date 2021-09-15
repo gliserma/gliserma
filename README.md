@@ -1,7 +1,13 @@
-### Hi there 👋
+# About Me
 - I'm currently studying to become a software engineer.
 - Most recently, I was the Chief Academic Officer at an educational video game company. This is how I became interested in programming.
 - I'm originally a historian and geographer.
+
+# Software Interests
+- maps and GIS
+- educational video games
+- genealogy
+- digital humanities and digital history
 
 # Education
 - I just finished an A.S. in Computer Science at Salt Lake Community College.
