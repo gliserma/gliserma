@@ -1,9 +1,9 @@
 # About Me
+- I'm originally a historian and geographer by training.
 - I'm currently studying to become a software engineer.
 - Most recently, I was the Chief Academic Officer at an educational video game company. This is how I became interested in programming.
-- I'm originally a historian and geographer.
 
-# Software Interests
+# Interests
 - maps and GIS
 - educational video games
 - genealogy
